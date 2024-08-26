@@ -1,0 +1,4 @@
+﻿  PrasamshaConsoleApplication1.cpp
+C:\Users\Nts\Desktop\PrasamshaConsoleApplication1\PrasamshaConsoleApplication1\PrasamshaConsoleApplication1.cpp(99,48): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Nts\Desktop\PrasamshaConsoleApplication1\PrasamshaConsoleApplication1\PrasamshaConsoleApplication1.cpp(99,35): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  PrasamshaConsoleApplication1.vcxproj -> C:\Users\Nts\Desktop\PrasamshaConsoleApplication1\Debug\PrasamshaConsoleApplication1.exe
